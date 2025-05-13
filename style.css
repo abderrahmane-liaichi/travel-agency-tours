@@ -515,6 +515,9 @@ footer .footer-content p{
         text-transform: uppercase;
         display: block;
     }
+    .right-content .first i{
+        padding-right: 0;
+    }
 
 
 }
